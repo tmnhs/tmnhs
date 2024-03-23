@@ -1,4 +1,38 @@
-### Hi there 👋
+
+<!-- Greeting -->
+# Hey there! :wave::smiley:
+
+
+
+<!-- Working GIF -->
+
+<p> <!-- GitHub README Stats -->
+  <a href="https://github.com/tmnhs?tab=repositories">
+    <img width="500" height="auto" alt="Joykishan's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=tmnhs&show_icons=true&theme=algolia&count_private=true" />
+  </a>
+ <!-- icons -->
+</p>
+
+
+<!-- Credit -->
+
+
+<!--
+**JoykishanSharma/JoykishanSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 <!--
 **tmnhs/tmnhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
