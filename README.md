@@ -5,14 +5,11 @@
 
 
 <!-- Working GIF -->
+## Github Overview
 
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/tmnhs?tab=repositories">
-    <img width="500" height="auto" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=tmnhs&show_icons=true&theme=algolia&count_private=true" />
-  </a>
- <!-- icons -->
-</p>
+<img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tmnhs&show_icons=true&theme=algolia" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmnhs&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 
 <!-- Credit -->
